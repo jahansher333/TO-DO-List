@@ -1,6 +1,6 @@
 {
   "name": "khan-to-do-list",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "A to do list ",
   "main": "index.js",
   "type": "module",
